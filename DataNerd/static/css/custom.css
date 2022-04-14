@@ -1,0 +1,14 @@
+.dark-mode {
+background-color: black;
+color: rgb(146, 209, 201);
+  }
+
+  #chartdiv {
+    width: 100%;
+    height: 700px;
+  }
+
+  #radardiv {
+    width: 100%;
+    height: 600px;
+  }
