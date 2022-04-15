@@ -28,6 +28,7 @@ Hayden Hinton and Anna Melnik
  * styling
 
 ### Presentation
+ * slides
 
 -------------------------------------------------------------------------------------------
 ## Instructions to run project
