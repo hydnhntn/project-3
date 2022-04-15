@@ -6,28 +6,28 @@ Hayden Hinton and Anna Melnik
 -------------------------------------------------------------------------------------------
 ## Contents
 
-#### Jupyter notebooks
+### Jupyter notebooks
   web scrapping data
   posting to MongoDB collections
   
-#### app.py
-creating flask server
-creating routes
-creating API
-  
-#### HTML:
+### app.py
+  creating flask server
+  creating routes
+  creating API
+
+### HTML:
   1. Home page
   2. Weapon chart
   3. Class chart
   4. Weapon API
 
-#### Javascript
-creating interactive charts
+### Javascript
+  creating interactive charts
 
-#### CSS
-styling
+### CSS
+  styling
 
-#### Presentation
+### Presentation
 
 -------------------------------------------------------------------------------------------
 ## Instructions to run project
