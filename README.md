@@ -8,12 +8,12 @@ Hayden Hinton and Anna Melnik
 
 ### Jupyter notebooks
   * web scrapping data
-  posting to MongoDB collections
+  * posting to MongoDB collections
   
 ### app.py
-  creating flask server
-  creating routes
-  creating API
+ * creating flask server
+ * creating routes
+ * creating API
 
 ### HTML:
   1. Home page
@@ -22,10 +22,10 @@ Hayden Hinton and Anna Melnik
   4. Weapon API
 
 ### Javascript
-  creating interactive charts
+ * creating interactive charts
 
 ### CSS
-  styling
+ * styling
 
 ### Presentation
 
