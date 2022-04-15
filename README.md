@@ -7,7 +7,7 @@ Hayden Hinton and Anna Melnik
 ## Contents
 
 ### Jupyter notebooks
-  web scrapping data
+  * web scrapping data
   posting to MongoDB collections
   
 ### app.py
